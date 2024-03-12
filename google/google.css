@@ -1,0 +1,14 @@
+header{
+    height: 60px;
+    background-color: yellow;
+    text-align: center;
+ 
+}  
+main {
+    margin-left: 50px;
+    font-size: 30px;
+}
+ main p{
+    margin-bottom: 0px;
+ }
+
