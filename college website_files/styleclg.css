@@ -1,0 +1,111 @@
+*{
+    margin:0px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(93, 168, 211);
+    color: white;
+    padding: 15px;
+}
+header img{
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#as{
+    display: flex;
+}
+.space a{
+    margin:10px;
+    padding: 5px;
+    font-size: 14pt;
+}
+.space a:hover{
+    background-color: rgb(148, 241, 210);
+    color: black;
+}
+#main {
+    margin-top: 45px;
+    margin-left: 200px;
+}
+main p{
+    margin:10px 45px;
+    padding:20px 50px;
+    word-spacing: 8px;
+    line-height: 23px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color:whitesmoke;
+}
+.active{
+    border:solid thin white;
+}
+#main_row{
+    display: flex;
+    justify-content: space-around;
+}
+.column{
+    width: 300px;
+    margin-top: 30px;
+}
+.column h3{
+    display: flex;
+    text-align: center;
+    font-family:cursive;
+}
+.sp h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.side{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+    padding: 30px;
+}
+.side h2{
+    display: flex;
+    justify-content: center;
+    color:red;
+    font-size:28pt;
+}
+.side1{
+    display: flex;
+    justify-content: space-evenly;
+ margin:30px; 
+ padding: 30px;  
+}
+.side1 h2{
+    color:red;
+    font-size:28pt;
+}
+#center h1{
+    display:flex;
+    justify-content: center;
+}
+#three{
+    display: flex;
+    justify-content: space-evenly;
+}
+.qw{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+    padding: 30px;
+}
+aside{
+    display: flex;
+    justify-content: end;
+}
+#side main{
+    display: flex;
+    justify-content:space-evenly;
+}
